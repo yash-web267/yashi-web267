@@ -1,3 +1,3 @@
-Hi, I am Yashi
-Full Stack Developer
+Hi, I am Yashi,
+an aspiring Full Stack Developer and a Software Engineering Student.
 
